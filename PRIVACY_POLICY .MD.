@@ -1,0 +1,17 @@
+# Privacy Policy  
+**Effective Date:** [Insert Date]  
+
+This Privacy Policy explains how we collect, use, and protect your information when using our app.  
+
+## Information We Collect  
+- We do not store or share personal data.  
+- OAuth tokens are used only for authentication.  
+
+## How We Use Information  
+- To authenticate and sync files securely using rclone.  
+
+## Data Security  
+- We use encryption to protect stored and transferred data.  
+
+## Contact Us  
+If you have any questions, reach out at [your email].
