@@ -1,1 +1,1 @@
-# Pricicy-Policy
+# PricicyPolicy
